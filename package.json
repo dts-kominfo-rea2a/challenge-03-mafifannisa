@@ -1,0 +1,23 @@
+{
+  "name": "challenge-fn",
+  "version": "1.0.0",
+  "description": "Sekarang adalah **Waktunya Developer Belanja** !",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --forceExit --runInBand --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjadi-react-developer/challenge-fn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjadi-react-developer/challenge-fn/issues"
+  },
+  "homepage": "https://github.com/menjadi-react-developer/challenge-fn#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
