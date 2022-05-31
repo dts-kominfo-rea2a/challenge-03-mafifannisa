@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "npm install",
+      "run": "npm run test -- test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 50
+    },
+    {
+      "name": "test2",
+      "setup": "npm install",
+      "run": "npm run test -- test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 50
+    }
+  ]
+}
